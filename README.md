@@ -5,10 +5,10 @@ This project explores the impact of various sampling techniques on the performan
 
 ## Dataset Details
 - **Initial Distribution**:
-  - Non-fraudulent cases: 763
-  - Fraudulent cases: 9
+  - Class 0: 763
+  - Class 1: 9
 - **After Oversampling**:
-  - The minority class (fraudulent cases) was oversampled to match the majority class, resulting in a balanced dataset.
+  - The minority class (i.e Class 1) was oversampled to match the majority class, resulting in a balanced dataset.
 
 ## Sampling Techniques
 1. **Simple Random Sampling**: Random selection of samples from the entire population.
