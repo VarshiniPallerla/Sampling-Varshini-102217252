@@ -1,4 +1,4 @@
-# Data Sampling and Model Evaluation
+# Data Sampling 
 
 ## Overview
 This project explores the impact of various sampling techniques on the performance of machine learning models. Sampling is an essential method for deriving insights from data without analyzing the entire population. The dataset used in this project initially had a severe class imbalance, which was addressed using oversampling.
